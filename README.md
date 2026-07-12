@@ -32,19 +32,30 @@ I work with modern frontend and backend technologies to create complete software
 
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="mailto:qasimali357I@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-qasimali357I%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" alt="Email" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/qasim-ali7/">
+    <img src="https://img.shields.io/badge/LinkedIn-Qasim%20Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" alt="LinkedIn" />
   </a>
 
   <a href="https://github.com/Qasim-Alii">
-    <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Qasim--Alii-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" alt="GitHub" />
   </a>
 </p>
 
-📧 Email: **qasimali357I@gmail.com**  
-📞 Contact: **+92 3112044809**  
-💻 GitHub: **https://github.com/Qasim-Alii**
+<p align="center">
+  <b>Let’s build scalable, elegant, and high-performing digital products.</b>
+</p>
+
+<p align="center">
+  📧 <a href="mailto:qasimali357I@gmail.com"><b>qasimali357I@gmail.com</b></a> &nbsp;•&nbsp;
+  📞 <b>+92 3112044809</b> &nbsp;•&nbsp;
+  💼 <a href="https://www.linkedin.com/in/qasim-ali7/"><b>LinkedIn</b></a> &nbsp;•&nbsp;
+  💻 <a href="https://github.com/Qasim-Alii"><b>GitHub</b></a>
+</p>
 
 ---
 
