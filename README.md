@@ -299,6 +299,8 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
 
 ---
 
+---
+
 ## ✍️ Random Dev Quote
 
 <p align="center">
