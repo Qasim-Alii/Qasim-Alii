@@ -223,7 +223,22 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
 
 ---
 
+
+
 ## 📊 GitHub Activity
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Repositories by Language" />
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Most Used Commit Languages" />
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qasim-Alii&theme=tokyonight&utcOffset=5" alt="Qasim Ali Productive Time" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
