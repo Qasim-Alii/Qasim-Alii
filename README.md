@@ -229,12 +229,6 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
 </p>
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
-</p>
-
 ---
 
 ## 💎 Professional Highlights
@@ -296,8 +290,7 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
 ▸ Ability to work across frontend, backend, database, integrations and deployment
 ▸ Focus on clean UI, smooth UX, scalable backend logic and maintainable code
 ▸ Practical mindset: build fast, test properly, improve continuously
-
----
+```
 
 ---
 
