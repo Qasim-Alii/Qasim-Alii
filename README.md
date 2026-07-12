@@ -229,15 +229,73 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-Alii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Qasim Ali Top Languages" />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Qasim-Alii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Qasim Ali GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
 </p>
 
 ---
+
+## 💎 Professional Highlights
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 Full-Stack Engineering</h3>
+      <p>
+        Building scalable web applications with clean architecture, reusable components,
+        secure APIs, and production-ready deployment workflows.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>⚡ Performance Focused</h3>
+      <p>
+        Creating fast, responsive, and optimized user experiences with modern frontend
+        patterns, API efficiency, and clean database design.
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🧩 Product Mindset</h3>
+      <p>
+        Turning ideas into functional digital products with dashboards, workflows,
+        authentication, payments, integrations, and admin systems.
+      </p>
+    </td>
+    <td width="50%">
+      <h3>🌍 Real-World Platforms</h3>
+      <p>
+        Experience across marketplaces, booking systems, Web3 platforms, analytics dashboards,
+        delivery apps, and business management tools.
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧠 Engineering Principles
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Code-0F172A?style=for-the-badge&logo=codeforces&logoColor=2DD4BF" />
+  <img src="https://img.shields.io/badge/Scalable%20Architecture-0F172A?style=for-the-badge&logo=serverless&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/API%20First%20Development-0F172A?style=for-the-badge&logo=fastapi&logoColor=22C55E" />
+  <img src="https://img.shields.io/badge/Responsive%20UI-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" />
+  <img src="https://img.shields.io/badge/Production%20Ready-0F172A?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+</p>
+
+---
+
+## 🏆 What I Bring to Projects
+
+```txt
+▸ Strong command of JavaScript, TypeScript, React, Next.js, Node.js and MongoDB
+▸ Experience building production dashboards, marketplaces, SaaS apps and APIs
+▸ Ability to work across frontend, backend, database, integrations and deployment
+▸ Focus on clean UI, smooth UX, scalable backend logic and maintainable code
+▸ Practical mindset: build fast, test properly, improve continuously
 
 ---
 
