@@ -123,106 +123,116 @@ A curated selection of production-level platforms I have worked on, covering Saa
 
 ---
 
-### 🍽️ [247 Seating — Restaurant Reservation Platform](https://247seating.com/)
+## 💼 Project Portfolio
 
-Built a full-stack restaurant reservation platform using **Node.js, Express.js, EJS, and MongoDB**, featuring real-time table occupancy tracking and booking management.
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🍽️ <a href="https://247seating.com/">247 Seating</a></h3>
+      <p><b>Restaurant Reservation Platform</b></p>
+      <p>
+        Full-stack reservation system with real-time table occupancy, booking management,
+        staff dashboards, seating schedules, and restaurant operation workflows.
+      </p>
+      <p><b>Stack:</b> Node.js · Express.js · EJS · MongoDB · REST APIs</p>
+    </td>
+    <td width="50%">
+      <h3>💼 <a href="https://made-work.com/">Made Work</a></h3>
+      <p><b>Business Management Platform</b></p>
+      <p>
+        Business management platform with responsive dashboards, reusable UI components,
+        API integrations, and scalable AWS deployment.
+      </p>
+      <p><b>Stack:</b> React · Node.js · Express.js · MongoDB · Tailwind · AWS</p>
+    </td>
+  </tr>
 
-Developed staff dashboards, seating schedules, and RESTful API integrations to streamline restaurant operations and improve reservation efficiency.
+  <tr>
+    <td width="50%">
+      <h3>👟 <a href="https://kicks.co">Kicks.co</a></h3>
+      <p><b>Sneaker Marketplace</b></p>
+      <p>
+        High-performance marketplace with product catalog, search, cart, order management,
+        optimized frontend experience, and REST API integrations.
+      </p>
+      <p><b>Stack:</b> React · Express.js · MongoDB · REST APIs · E-commerce</p>
+    </td>
+    <td width="50%">
+      <h3>🧩 <a href="https://www.app.taskbound.io/">TaskBound</a></h3>
+      <p><b>Web3 Bounty Platform</b></p>
+      <p>
+        Decentralized bounty platform with Ethereum and Solana support, MetaMask auth,
+        referral system, project creation, and reward distribution.
+      </p>
+      <p><b>Stack:</b> Web3 · Ethereum · Solana · MetaMask · React · Node.js</p>
+    </td>
+  </tr>
 
-**Tech Stack:** Node.js · Express.js · EJS · MongoDB · REST APIs · Dashboard Development
+  <tr>
+    <td width="50%">
+      <h3>🛠️ <a href="https://www.sysselmarket.com/">Syssel</a></h3>
+      <p><b>Services Marketplace</b></p>
+      <p>
+        Dual-role marketplace across Web, iOS, and Android with bookings, provider dashboards,
+        calendars, Stripe Connect, real-time chat, maps, vouchers, and disputes.
+      </p>
+      <p><b>Stack:</b> React · React Native · Node.js · MongoDB · Stripe · Socket.io</p>
+    </td>
+    <td width="50%">
+      <h3>🐾 <a href="https://dogtor-webapp.vercel.app/">Dogtor</a></h3>
+      <p><b>All-in-One Marketplace</b></p>
+      <p>
+        Multi-service marketplace connecting users with restaurants, supermarkets,
+        pharmacies, clinics, and retail stores through customer and business dashboards.
+      </p>
+      <p><b>Stack:</b> React · Node.js · Payments · Rider Tracking · Dashboards</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>☕ <a href="https://investin.javatimescaffe.com/">Java Times Caffe</a></h3>
+      <p><b>Investment Platform</b></p>
+      <p>
+        Frontend investment platform enabling users to purchase digital shares and invest
+        in coffee franchise opportunities with smooth authentication and API flows.
+      </p>
+      <p><b>Stack:</b> React.js · Authentication · API Integration · Responsive UI</p>
+    </td>
+    <td width="50%">
+      <h3>📊 <a href="https://fannet.vercel.app/leads">Fannet</a></h3>
+      <p><b>Sales Analytics Dashboard</b></p>
+      <p>
+        Scalable CMS dashboard for tracking leads, KPIs, onboarding metrics, sales performance,
+        role-based access, charts, and dynamic reporting.
+      </p>
+      <p><b>Stack:</b> React · CMS Dashboard · RBAC · Analytics · KPI Reports</p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>🦅 <a href="https://agilefalconsg.com">Agile Falcon</a></h3>
+      <p><b>Event Management Platform</b></p>
+      <p>
+        Corporate event platform with delegate and sponsor profiles, meeting scheduling,
+        event agendas, personalized invitations, notifications, and admin dashboards.
+      </p>
+      <p><b>Stack:</b> React · Node.js · Scheduling · Notifications · Admin Dashboard</p>
+    </td>
+    <td width="50%">
+      <h3>🛵 <a href="https://glovoapp.com/en">Glovo</a></h3>
+      <p><b>Food & Grocery Delivery Platform</b></p>
+      <p>
+        Delivery platform with restaurant discovery, order management, real-time delivery
+        tracking, secure payments, responsive UI, and REST API integrations.
+      </p>
+      <p><b>Stack:</b> React · Node.js · REST APIs · Payments · Delivery Tracking</p>
+    </td>
+  </tr>
+</table>
 
 ---
-
-### 💼 [Made Work — Business Management Platform](https://made-work.com/)
-
-Developed a full-stack business management platform using **React, Node.js, Express.js, and MongoDB**, delivering responsive dashboards and seamless API integrations.
-
-Designed modern, reusable UI components with **Tailwind CSS** and deployed the application on **AWS EC2 & S3** to ensure scalability and high availability.
-
-**Tech Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS · AWS EC2 · AWS S3
-
----
-
-### 👟 [Kicks.co — Sneaker Marketplace](https://kicks.co)
-
-Built a high-performance sneaker marketplace using **React, Express.js, and MongoDB**, implementing product catalog, search, cart, and order management features.
-
-Optimized frontend performance and integrated RESTful APIs to deliver a fast and seamless shopping experience.
-
-**Tech Stack:** React · Express.js · MongoDB · REST APIs · E-commerce · Performance Optimization
-
----
-
-### 🧩 [TaskBound — Web3 Bounty Platform](https://www.app.taskbound.io/)
-
-Developed a decentralized bounty platform with multi-chain support for **Ethereum and Solana**, enabling users to create projects, launch bounties, and reward contributors.
-
-Integrated **MetaMask authentication**, referral system, and automated reward distribution to enhance user engagement and platform transparency.
-
-**Tech Stack:** Web3 · Ethereum · Solana · MetaMask · React · Node.js · Smart Contract Integration
-
----
-
-### 🛠️ [Syssel — Services Marketplace](https://www.sysselmarket.com/)
-
-Developed a dual-role marketplace for service providers and customers across **Web, iOS, and Android**, including booking workflows, provider dashboards, calendars, and admin management.
-
-Built features including **Stripe Connect payments, real-time chat, multilingual support, maps and distance calculation, vouchers, discounts, and dispute management**.
-
-**Tech Stack:** React · React Native · Node.js · MongoDB · Stripe Connect · Socket.io · Maps · Multilingual Support
-
----
-
-### 🐾 [Dogtor — All-in-One Marketplace](https://dogtor-webapp.vercel.app/)
-
-Contributed to a multi-service marketplace connecting users with restaurants, supermarkets, pharmacies, clinics, and retail stores through a single platform.
-
-Developed key modules including authentication, payment integration, rider tracking, advertising management, and responsive customer and business dashboards.
-
-**Tech Stack:** React · Node.js · API Integration · Payment Integration · Rider Tracking · Dashboard Development
-
----
-
-### ☕ [Java Times Caffe — Investment Platform](https://investin.javatimescaffe.com/)
-
-Developed the frontend of an investment platform enabling users to purchase digital shares and invest in coffee franchise opportunities.
-
-Built responsive investment flows, authentication, and API integrations using **React.js** for a seamless user experience.
-
-**Tech Stack:** React.js · Authentication · API Integration · Investment Flow · Responsive UI
-
----
-
-### 📊 [Fannet — Sales Analytics Dashboard](https://fannet.vercel.app/leads)
-
-Developed a scalable CMS dashboard for tracking sales performance, leads, KPIs, and onboarding metrics through interactive charts and dynamic reporting.
-
-Implemented role-based access control, responsive dashboards, and modular analytics pages to improve reporting efficiency and team collaboration.
-
-**Tech Stack:** React · CMS Dashboard · RBAC · Analytics · KPI Tracking · Dynamic Reports
-
----
-
-### 🦅 [Agile Falcon — Event Management Platform](https://agilefalconsg.com)
-
-Contributed to the development of a full-stack event management platform connecting delegates and sponsors through meeting scheduling, event agendas, and profile management.
-
-Built features including smart meeting scheduling, real-time agenda updates, personalized invitations, notifications, and admin dashboards, delivering a scalable experience for corporate events.
-
-**Tech Stack:** React · Node.js · Event Management · Scheduling · Notifications · Admin Dashboard
-
----
-
-### 🛵 [Glovo — Food & Grocery Delivery Platform](https://glovoapp.com/en)
-
-Developed a full-stack food and grocery delivery platform featuring restaurant discovery, order management, real-time delivery tracking, and secure payment integration.
-
-Built responsive user interfaces and integrated RESTful APIs to deliver a fast, reliable, and seamless ordering experience across multiple devices.
-
-**Tech Stack:** React · Node.js · REST APIs · Payment Integration · Delivery Tracking · Responsive UI
-
----
-
 
 
 ## 📊 GitHub Activity
@@ -234,14 +244,6 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
 <p align="center">
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Repositories by Language" />
   <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Most Used Commit Languages" />
-</p>
-
-<p align="center">
-  <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qasim-Alii&theme=tokyonight&utcOffset=5" alt="Qasim Ali Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
 </p>
 
 ---
