@@ -311,6 +311,15 @@ A curated selection of production-level platforms I have worked on, covering Saa
 
 ---
 
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Qasim-Alii/Qasim-Alii/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote
 
 <p align="center">
@@ -319,10 +328,11 @@ A curated selection of production-level platforms I have worked on, covering Saa
 
 ---
 
-<div align="center">
-  <h3>👨‍💻 Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/Qasim-Alii/count.svg" alt="Visitor Count" />
-</div>
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Qasim-Alii&label=Profile%20Views&color=2DD4BF&style=for-the-badge" alt="Qasim Ali Profile Views" />
+</p>
 
 ---
 
