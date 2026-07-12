@@ -223,25 +223,21 @@ Built responsive user interfaces and integrated RESTful APIs to deliver a fast, 
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true&custom_title=Qasim%20Ali's%20Contribution%20Activity" alt="Qasim Ali GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali GitHub Stats" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Qasim-Alii&theme=tokyonight&utcOffset=5" alt="Qasim Ali Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qasim-Alii&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Qasim Ali Top Languages" />
 </p>
 
 <p align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Repos Per Language" />
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Qasim-Alii&theme=tokyonight" alt="Qasim Ali Most Commit Language" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Qasim-Alii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="Qasim Ali GitHub Trophies" />
 </p>
 
-<p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Qasim-Alii&theme=tokyo-night&hide_border=true&area=true" alt="Qasim Ali Activity Graph" />
-</p>
+---
 
 ---
 
