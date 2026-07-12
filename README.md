@@ -73,21 +73,142 @@ I work with modern frontend and backend technologies to create complete software
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-<a href="https://github.com/Qasim-Alii">
-  <img src="https://img.shields.io/badge/Project%201-Full%20Stack%20Web%20Application-2DD4BF?style=for-the-badge&labelColor=0F172A" height="35"/>
-</a>
+A curated selection of production-level platforms I have worked on, covering SaaS products, marketplaces, reservation systems, analytics dashboards, Web3 platforms, event management systems, and scalable business applications.
 
-<a href="https://github.com/Qasim-Alii">
-  <img src="https://img.shields.io/badge/Project%202-Admin%20Dashboard%20%26%20API-38BDF8?style=for-the-badge&labelColor=0F172A" height="35"/>
-</a>
+<p align="center">
+  <a href="https://247seating.com/">
+    <img src="https://img.shields.io/badge/247%20Seating-Restaurant%20Reservation%20Platform-00C853?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://made-work.com/">
+    <img src="https://img.shields.io/badge/Made%20Work-Business%20Management%20Platform-38BDF8?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://kicks.co">
+    <img src="https://img.shields.io/badge/Kicks.co-Sneaker%20Marketplace-FACC15?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://www.app.taskbound.io/">
+    <img src="https://img.shields.io/badge/TaskBound-Web3%20Bounty%20Platform-8B5CF6?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://www.sysselmarket.com/">
+    <img src="https://img.shields.io/badge/Syssel-Services%20Marketplace-06B6D4?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://dogtor-webapp.vercel.app/">
+    <img src="https://img.shields.io/badge/Dogtor-All--in--One%20Marketplace-F97316?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://investin.javatimescaffe.com/">
+    <img src="https://img.shields.io/badge/Java%20Times%20Caffe-Investment%20Platform-92400E?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://fannet.vercel.app/leads">
+    <img src="https://img.shields.io/badge/Fannet-Sales%20Analytics%20Dashboard-EC4899?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://agilefalconsg.com">
+    <img src="https://img.shields.io/badge/Agile%20Falcon-Event%20Management%20Platform-2563EB?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+  <a href="https://glovoapp.com/en">
+    <img src="https://img.shields.io/badge/Glovo-Food%20%26%20Grocery%20Delivery-FACC15?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
+</p>
 
-<a href="https://github.com/Qasim-Alii">
-  <img src="https://img.shields.io/badge/Project%203-React%20%26%20Node.js%20Platform-FACC15?style=for-the-badge&labelColor=0F172A" height="35"/>
-</a>
+---
 
-> Replace these project links with your real deployed projects later.
+### 🍽️ [247 Seating — Restaurant Reservation Platform](https://247seating.com/)
+
+Built a full-stack restaurant reservation platform using **Node.js, Express.js, EJS, and MongoDB**, featuring real-time table occupancy tracking and booking management.
+
+Developed staff dashboards, seating schedules, and RESTful API integrations to streamline restaurant operations and improve reservation efficiency.
+
+**Tech Stack:** Node.js · Express.js · EJS · MongoDB · REST APIs · Dashboard Development
+
+---
+
+### 💼 [Made Work — Business Management Platform](https://made-work.com/)
+
+Developed a full-stack business management platform using **React, Node.js, Express.js, and MongoDB**, delivering responsive dashboards and seamless API integrations.
+
+Designed modern, reusable UI components with **Tailwind CSS** and deployed the application on **AWS EC2 & S3** to ensure scalability and high availability.
+
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS · AWS EC2 · AWS S3
+
+---
+
+### 👟 [Kicks.co — Sneaker Marketplace](https://kicks.co)
+
+Built a high-performance sneaker marketplace using **React, Express.js, and MongoDB**, implementing product catalog, search, cart, and order management features.
+
+Optimized frontend performance and integrated RESTful APIs to deliver a fast and seamless shopping experience.
+
+**Tech Stack:** React · Express.js · MongoDB · REST APIs · E-commerce · Performance Optimization
+
+---
+
+### 🧩 [TaskBound — Web3 Bounty Platform](https://www.app.taskbound.io/)
+
+Developed a decentralized bounty platform with multi-chain support for **Ethereum and Solana**, enabling users to create projects, launch bounties, and reward contributors.
+
+Integrated **MetaMask authentication**, referral system, and automated reward distribution to enhance user engagement and platform transparency.
+
+**Tech Stack:** Web3 · Ethereum · Solana · MetaMask · React · Node.js · Smart Contract Integration
+
+---
+
+### 🛠️ [Syssel — Services Marketplace](https://www.sysselmarket.com/)
+
+Developed a dual-role marketplace for service providers and customers across **Web, iOS, and Android**, including booking workflows, provider dashboards, calendars, and admin management.
+
+Built features including **Stripe Connect payments, real-time chat, multilingual support, maps and distance calculation, vouchers, discounts, and dispute management**.
+
+**Tech Stack:** React · React Native · Node.js · MongoDB · Stripe Connect · Socket.io · Maps · Multilingual Support
+
+---
+
+### 🐾 [Dogtor — All-in-One Marketplace](https://dogtor-webapp.vercel.app/)
+
+Contributed to a multi-service marketplace connecting users with restaurants, supermarkets, pharmacies, clinics, and retail stores through a single platform.
+
+Developed key modules including authentication, payment integration, rider tracking, advertising management, and responsive customer and business dashboards.
+
+**Tech Stack:** React · Node.js · API Integration · Payment Integration · Rider Tracking · Dashboard Development
+
+---
+
+### ☕ [Java Times Caffe — Investment Platform](https://investin.javatimescaffe.com/)
+
+Developed the frontend of an investment platform enabling users to purchase digital shares and invest in coffee franchise opportunities.
+
+Built responsive investment flows, authentication, and API integrations using **React.js** for a seamless user experience.
+
+**Tech Stack:** React.js · Authentication · API Integration · Investment Flow · Responsive UI
+
+---
+
+### 📊 [Fannet — Sales Analytics Dashboard](https://fannet.vercel.app/leads)
+
+Developed a scalable CMS dashboard for tracking sales performance, leads, KPIs, and onboarding metrics through interactive charts and dynamic reporting.
+
+Implemented role-based access control, responsive dashboards, and modular analytics pages to improve reporting efficiency and team collaboration.
+
+**Tech Stack:** React · CMS Dashboard · RBAC · Analytics · KPI Tracking · Dynamic Reports
+
+---
+
+### 🦅 [Agile Falcon — Event Management Platform](https://agilefalconsg.com)
+
+Contributed to the development of a full-stack event management platform connecting delegates and sponsors through meeting scheduling, event agendas, and profile management.
+
+Built features including smart meeting scheduling, real-time agenda updates, personalized invitations, notifications, and admin dashboards, delivering a scalable experience for corporate events.
+
+**Tech Stack:** React · Node.js · Event Management · Scheduling · Notifications · Admin Dashboard
+
+---
+
+### 🛵 [Glovo — Food & Grocery Delivery Platform](https://glovoapp.com/en)
+
+Developed a full-stack food and grocery delivery platform featuring restaurant discovery, order management, real-time delivery tracking, and secure payment integration.
+
+Built responsive user interfaces and integrated RESTful APIs to deliver a fast, reliable, and seamless ordering experience across multiple devices.
+
+**Tech Stack:** React · Node.js · REST APIs · Payment Integration · Delivery Tracking · Responsive UI
 
 ---
 
