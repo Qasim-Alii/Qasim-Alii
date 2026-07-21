@@ -119,6 +119,9 @@ A curated selection of production-level platforms I have worked on, covering Saa
   <a href="https://glovoapp.com/en">
     <img src="https://img.shields.io/badge/Glovo-Food%20%26%20Grocery%20Delivery-FACC15?style=for-the-badge&labelColor=0F172A" height="35"/>
   </a>
+    <a href="https://scottlmillerbooks.com/">
+    <img src="https://img.shields.io/badge/Scott%20L.%20Miller%20Books-Book%20eCommerce%20Platform-7C3AED?style=for-the-badge&labelColor=0F172A" height="35"/>
+  </a>
 </p>
 
 ---
@@ -228,6 +231,22 @@ A curated selection of production-level platforms I have worked on, covering Saa
         tracking, secure payments, responsive UI, and REST API integrations.
       </p>
       <p><b>Stack:</b> React · Node.js · REST APIs · Payments · Delivery Tracking</p>
+    </td>
+  </tr>
+  
+  <tr>
+    <td colspan="2">
+      <h3>📚 <a href="https://scottlmillerbooks.com/">Scott L. Miller Books</a></h3>
+      <p><b>Book eCommerce & Digital Reading Platform</b></p>
+      <p>
+        Developed an online book purchasing platform where customers can buy books across
+        multiple formats including hard copy, paperback, and e-book editions.
+      </p>
+      <p>
+        Maintained the user dashboard for purchased e-books, integrated Lulu’s
+        print-on-demand API, and connected SquareUp payment services for secure checkout.
+      </p>
+      <p><b>Stack:</b> React.js · Laravel · Redux Toolkit · Lulu API · SquareUp Payments</p>
     </td>
   </tr>
 </table>
