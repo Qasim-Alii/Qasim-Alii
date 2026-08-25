@@ -1,4 +1,4 @@
-![Qasim Ali - Full Stack Developer](./banner.svg)
+![Qasim Ali - Full Stack Developer](./bannerx.svg)
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
