@@ -1,6 +1,6 @@
 ![Qasim Ali - Full Stack Developer](./banner.svg)
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript%20Developer;TypeScript%20Developer;Full%20Stack%20Developer;React%20%26%20Next.js%20Developer;Node.js%20Backend%20Developer&font=Fira%20Code&center=true&width=650&height=45&color=2DD4BF&vCenter=true&pause=1000&size=22" />
   </a>
@@ -357,4 +357,4 @@ A curated selection of production-level platforms I have worked on, covering Saa
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div> -->
+</div>
